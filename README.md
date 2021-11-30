@@ -1,5 +1,5 @@
 # sewayaki-kitsune-no-senko-san-Script
-Todo o roteiro de sewayaki kitsune no senko-san dub em portugues (Ainda fazendo o resto dos ep) 
+Todo o roteiro de sewayaki kitsune no senko-san dub em português (Ainda fazendo o resto dos ep) 
 
 
 esse projeto é uma piada interna e talvez tenha muitos erros mas... ta ai
